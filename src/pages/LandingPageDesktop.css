@@ -1,0 +1,748 @@
+.landing-page-desktop-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 804px;
+}
+.screenshot-669-1-icon {
+  position: absolute;
+  top: 33px;
+  left: 100px;
+  width: 107px;
+  height: 83px;
+  object-fit: cover;
+}
+.landing-page-desktop-inner,
+.landing-page-desktop-item {
+  position: absolute;
+  top: 803px;
+  left: 0;
+  width: 1440px;
+  height: 653px;
+}
+.landing-page-desktop-inner {
+  top: 989px;
+  background: linear-gradient(
+    90.07deg,
+    rgba(30, 42, 93, 0.04),
+    rgba(48, 62, 130, 0.04) 55.51%,
+    rgba(60, 80, 157, 0.04)
+  );
+  height: 467px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: calc(50% - 1406.5px);
+  left: calc(50% - 15px);
+  border-radius: 0 0 0 198.9px;
+  width: 735px;
+  height: 804px;
+  object-fit: cover;
+}
+.contact-us {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 27.22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 94px;
+  height: 27px;
+}
+.div,
+.example2020gmailcom,
+.lorem-ipsum-pvt {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  line-height: 23.03px;
+  display: inline-block;
+  width: 217px;
+  height: 69px;
+}
+.div,
+.example2020gmailcom {
+  top: 84px;
+  left: 0;
+  width: 232px;
+  height: 23px;
+}
+.div {
+  top: 122px;
+  text-align: center;
+  width: 91px;
+}
+.contact-us-parent,
+.lorem-ipsum-pvt-ltd51-magal-parent {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  width: 232px;
+  height: 145px;
+  font-size: 14.66px;
+  color: var(--color-dimgray);
+}
+.contact-us-parent {
+  top: 84px;
+  left: 474px;
+  height: 186px;
+  text-align: left;
+  font-size: 18.84px;
+  color: var(--primary);
+  font-family: var(--font-source-sans-pro);
+}
+.more,
+.social-links {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 27.22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 43px;
+  height: 27px;
+}
+.social-links {
+  left: 309px;
+  font-size: 19px;
+  line-height: 27px;
+  width: 129px;
+}
+.about-us,
+.career,
+.contact-us1,
+.products {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  line-height: 27px;
+  display: inline-block;
+  width: 153px;
+  height: 26px;
+}
+.about-us,
+.career,
+.contact-us1 {
+  top: 80px;
+  width: 86px;
+}
+.about-us,
+.contact-us1 {
+  top: 119px;
+  width: 94px;
+}
+.about-us {
+  top: 0;
+  font-size: 14.66px;
+  line-height: 27.22px;
+  width: 75px;
+}
+.products-parent {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  width: 153px;
+  height: 145px;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray);
+}
+.more-parent {
+  position: absolute;
+  top: 84px;
+  left: 898px;
+  width: 438px;
+  height: 186px;
+  text-align: left;
+  font-size: 18.84px;
+  color: var(--primary);
+  font-family: var(--font-source-sans-pro);
+}
+.food-truck-example {
+  position: absolute;
+  top: 245px;
+  left: 1139px;
+  line-height: 25.12px;
+  display: inline-block;
+  width: 197px;
+  height: 25px;
+}
+.frame-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8f8f8;
+  width: 1440px;
+  height: 362px;
+}
+.component-icon,
+.component-icon1,
+.path-3-icon {
+  position: absolute;
+  height: 5.8%;
+  width: 1.46%;
+  top: 33.7%;
+  right: 7.15%;
+  bottom: 60.5%;
+  left: 91.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-icon1,
+.path-3-icon {
+  height: 19.06%;
+  width: 4.79%;
+  top: 27.07%;
+  right: 9.44%;
+  bottom: 53.87%;
+  left: 85.76%;
+}
+.path-3-icon {
+  height: 5.8%;
+  width: 1.46%;
+  top: 33.7%;
+  right: 14.72%;
+  bottom: 60.5%;
+  left: 83.82%;
+}
+.frame-parent {
+  position: absolute;
+  top: 2451px;
+  left: 1px;
+  width: 1440px;
+  height: 362px;
+  text-align: center;
+  font-size: 14.66px;
+  color: var(--b9c);
+  font-family: var(--font-roboto);
+}
+.explore-now1 {
+  position: relative;
+  font-size: 18px;
+  letter-spacing: 0.01em;
+  line-height: 36px;
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  text-align: left;
+}
+.explore-now {
+  cursor: pointer;
+  border: 0;
+  padding: 14px 34px;
+  background-color: var(--color-crimson);
+  position: absolute;
+  top: 556px;
+  left: 97px;
+  border-radius: 34px;
+  width: 190px;
+  height: 63px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.discover-the {
+  margin: 0;
+}
+.best {
+  color: var(--color-crimson);
+}
+.discover-the-best-container,
+.naturally-made-healthcare {
+  position: absolute;
+  left: 100px;
+  display: inline-block;
+  width: 345px;
+}
+.discover-the-best-container {
+  top: 227px;
+  font-size: 62px;
+  line-height: 69px;
+  font-weight: 700;
+  color: var(--primary);
+}
+.naturally-made-healthcare {
+  top: 460px;
+  font-size: 16.44px;
+  line-height: 27.41px;
+  font-family: var(--font-open-sans);
+  color: var(--body);
+}
+.aboutgirl-lp-icon,
+.rectangle-div {
+  position: absolute;
+  top: 989px;
+  left: 205px;
+  width: 384px;
+  height: 468px;
+}
+.rectangle-div {
+  top: 1456px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 995px;
+}
+.screenshot-669-2-icon {
+  position: absolute;
+  top: 2574px;
+  left: 104px;
+  width: 161px;
+  height: 125px;
+  object-fit: cover;
+}
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 688px;
+  width: 752px;
+  height: 839px;
+}
+.get-in-touch {
+  position: relative;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  line-height: 36px;
+  font-weight: 600;
+  font-family: var(--font-source-sans-pro);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 99px;
+  height: 36px;
+  flex-shrink: 0;
+}
+.get-in-touch-wrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  padding: var(--padding-10xs) var(--padding-7xl);
+  background-color: transparent;
+  position: absolute;
+  top: 32px;
+  left: 1277px;
+  border-radius: var(--br-2xl);
+  box-sizing: border-box;
+  width: 122px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.landing-page-desktop-child1,
+.latest-articles {
+  position: absolute;
+  top: 162.72px;
+  left: 1215.53px;
+  width: 115.11px;
+  height: 76.82px;
+  display: none;
+}
+.latest-articles {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.04em;
+  line-height: 42px;
+  font-weight: 600;
+  display: inline-block;
+  width: 461px;
+  height: 84px;
+}
+.grilled-tomatoes-1-846x846-1-icon {
+  position: absolute;
+  top: 27px;
+  left: 27px;
+  border-radius: var(--br-2xl);
+  width: 326px;
+  height: 257px;
+  object-fit: cover;
+}
+.grilled-tomatoes-at,
+.plorem-ipsum-is {
+  position: relative;
+  line-height: 27px;
+}
+.plorem-ipsum-is {
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.02em;
+  font-family: var(--font-open-sans);
+  color: var(--body);
+  display: inline-block;
+  width: 295px;
+}
+.grilled-tomatoes-at-home-parent {
+  height: 125px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--primary);
+  font-family: var(--font-poppins);
+}
+.read-more {
+  position: relative;
+  font-size: 16.44px;
+  letter-spacing: 0.03em;
+  line-height: 35.59px;
+  font-weight: 600;
+  font-family: var(--font-source-sans-pro);
+  color: var(--color-darkslategray-100);
+  text-align: left;
+}
+.read-more-wrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkslategray-100);
+  background-color: transparent;
+  border-radius: var(--br-2xl);
+  box-sizing: border-box;
+  width: 131px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-container {
+  position: absolute;
+  top: 319.51px;
+  left: 43.17px;
+  width: 295.02px;
+  height: 194.52px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27.41px;
+}
+.grilled-tomatoes-1-846x846-1-parent {
+  position: absolute;
+  top: 125px;
+  left: 0;
+  border-radius: 20.94px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+  width: 381px;
+  height: 554px;
+}
+.frame-div,
+.snacks-for-travel-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.snacks-for-travel-parent {
+  gap: var(--gap-sm-7);
+}
+.frame-div {
+  position: absolute;
+  top: 319.51px;
+  left: 43.17px;
+  gap: 27.41px;
+}
+.frame-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20.94px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+  width: 381px;
+  height: 554px;
+}
+.meal-prep-ideas-846x846-1-icon {
+  position: absolute;
+  top: 27px;
+  left: 27px;
+  border-radius: var(--br-2xl);
+  width: 326px;
+  height: 258px;
+  object-fit: cover;
+}
+.frame-section {
+  position: absolute;
+  top: 125px;
+  left: 422px;
+  width: 381px;
+  height: 554px;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--primary);
+  font-family: var(--font-poppins);
+}
+.read-more-frame {
+  cursor: pointer;
+  border: 1.4px solid var(--color-darkslategray-100);
+  padding: 3.1405558586120605px 26.171297073364258px;
+  background-color: transparent;
+  border-radius: 20.94px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent1,
+.latest-articles-parent {
+  position: absolute;
+  top: 125px;
+  left: 844px;
+  width: 381px;
+  height: 554px;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--primary);
+  font-family: var(--font-poppins);
+}
+.latest-articles-parent {
+  top: 1614px;
+  left: 108px;
+  width: 1225px;
+  height: 679px;
+  font-size: var(--font-size-37xl);
+  font-family: var(--font-source-sans-pro);
+}
+.about-us1,
+.lorem-ipsum-is {
+  position: relative;
+  line-height: 27px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.about-us1 {
+  font-weight: 600;
+  width: 422px;
+  height: 26px;
+}
+.lorem-ipsum-is {
+  font-size: var(--font-size-mini);
+  font-family: var(--font-open-sans);
+  color: var(--body);
+  width: 447px;
+  height: 138px;
+}
+.about-us-parent,
+.frame-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-parent {
+  gap: 27.41px;
+}
+.frame-wrapper2 {
+  width: 447px;
+  height: 192px;
+}
+.read-more3 {
+  position: relative;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  line-height: 36px;
+  font-weight: 600;
+  font-family: var(--font-source-sans-pro);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 80px;
+  height: 36px;
+  flex-shrink: 0;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-10xs) var(--padding-7xl);
+  background-color: var(--color-crimson);
+  border-radius: var(--br-2xl);
+  width: 132px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 1096px;
+  left: 789px;
+  width: 447px;
+  height: 254px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px;
+  text-align: left;
+  font-size: 45px;
+  color: var(--primary);
+  font-family: var(--font-poppins);
+}
+.div1 {
+  position: absolute;
+  top: 2358px;
+  left: 705px;
+  line-height: 27.22px;
+}
+.image-1-traced {
+  position: absolute;
+  height: 55.17%;
+  width: 35.71%;
+  top: 24.14%;
+  right: 32.14%;
+  bottom: 20.69%;
+  left: 32.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-1-traced-wrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray);
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 2357px;
+  left: 663px;
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+  width: 28px;
+  height: 29px;
+}
+.image-1-traced1 {
+  position: absolute;
+  height: 2.55%;
+  width: 35.71%;
+  top: 0;
+  right: 32.14%;
+  bottom: 97.45%;
+  left: 32.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child {
+  position: absolute;
+  top: 471.56px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 28px;
+  height: 29px;
+}
+.image-1-traced-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 17.79%;
+  width: 1.94%;
+  top: 67.03%;
+  right: 46.04%;
+  bottom: 15.18%;
+  left: 52.01%;
+}
+.landing-page-desktop-child2 {
+  position: absolute;
+  top: 1457px;
+  left: 1440px;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 994px;
+}
+.div2 {
+  position: absolute;
+  top: 2359px;
+  left: 2145px;
+  line-height: 27.22px;
+}
+.group-item,
+.image-1-traced-container {
+  position: absolute;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 28px;
+  height: 29px;
+}
+.image-1-traced-container {
+  cursor: pointer;
+  border: 1px solid var(--color-darkslategray-100);
+  padding: 0;
+  top: 2358px;
+  left: 2103px;
+}
+.group-item {
+  top: 471.77px;
+  left: 0;
+  border: 1px solid var(--color-darkgray);
+}
+.image-1-traced-group {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 17.8%;
+  width: 1.94%;
+  top: 67.05%;
+  right: -53.96%;
+  bottom: 15.14%;
+  left: 152.01%;
+}
+.how-to-grill-corn-parent {
+  height: 125px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.grilled-tomatoes-1-846x846-1-group {
+  position: absolute;
+  top: 125px;
+  left: 0;
+  border-radius: 20.94px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+  width: 381px;
+  height: 554px;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--primary);
+  font-family: var(--font-poppins);
+}
+.landing-page-desktop,
+.latest-articles-group {
+  text-align: left;
+  font-family: var(--font-source-sans-pro);
+}
+.latest-articles-group {
+  position: absolute;
+  top: 1615px;
+  left: 1554px;
+  width: 1225px;
+  height: 679px;
+  font-size: var(--font-size-37xl);
+  color: var(--primary);
+}
+.landing-page-desktop {
+  position: relative;
+  width: 100%;
+  height: 2813px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslategray-100);
+}
